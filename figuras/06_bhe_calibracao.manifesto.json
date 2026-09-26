@@ -1,0 +1,16 @@
+{
+  "script": "demos/06_bhe_calibracao.py",
+  "semente": 20260926,
+  "modelo": "GradientBoostingClassifier(padrão sklearn)",
+  "atributos": [
+    "massa",
+    "tpsa",
+    "logp",
+    "hbd",
+    "rotativas"
+  ],
+  "variavel_latente": "efluxo (não observado pelo modelo)",
+  "bins_ece": 10,
+  "natureza_dos_dados": "SINTÉTICO - gerado por simulação, sem origem experimental",
+  "arquivo": "06_bhe_calibracao.png"
+}

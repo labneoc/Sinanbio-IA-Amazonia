@@ -1,0 +1,21 @@
+{
+  "script": "demos/08_procedencia_auditavel.py",
+  "semente": 20260926,
+  "regras": {
+    "R1": "acesso ao patrimônio genético sem cadastro prévio",
+    "R2": "uso de conhecimento tradicional sem consentimento prévio informado",
+    "R3": "dado digital (DSI) publicado a partir de acesso não cadastrado",
+    "R4": "modelo treinado para fim tecnológico sem repartição pactuada",
+    "R5": "dado digital público sem identificador do acesso de origem"
+  },
+  "severidades": {
+    "R1": 3,
+    "R2": 4,
+    "R3": 4,
+    "R4": 3,
+    "R5": 2
+  },
+  "aviso": "regras são caricatura didática; não são assessoria jurídica",
+  "natureza_dos_dados": "SINTÉTICO - gerado por simulação, sem origem experimental",
+  "arquivo": "08_procedencia_auditavel.png"
+}

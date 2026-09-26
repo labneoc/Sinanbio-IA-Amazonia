@@ -1,0 +1,3 @@
+detector,recall_modular,recall_criptico,precisao_global,recall_global,falsos_positivos
+regra especialista,1.0,0.0,0.7128712871287128,0.8275862068965517,261
+modelo aprendido,1.0,0.34074074074074073,0.552988047808765,0.8863346104725415,561

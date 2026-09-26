@@ -1,0 +1,9 @@
+# SINANBIO - dependências mínimas
+# Testado com Python 3.12 nas versões abaixo (limites superiores não fixados
+# de propósito: o código usa apenas API estável destas bibliotecas).
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+networkx>=3.2

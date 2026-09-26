@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "SINANBIO - simulações didáticas de IA para descoberta de ativos da Amazônia"
+message: "Se usar este material, cite como abaixo. Todos os dados são sintéticos."
+type: software
+authors:
+  - family-names: "Gomes"
+    given-names: "Bruno Duarte"
+    affiliation: "Faculdade de Biotecnologia, ICB, UFPA; LNEOC-ICB-UFPA; SimBic, CCAD-IA, UFPA"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-26"
+keywords:
+  - produtos naturais
+  - Amazônia
+  - inteligência artificial
+  - quimioinformática
+  - metabolômica
+  - sistemas dinâmicos
+  - repartição de benefícios
+abstract: >-
+  Conjunto de oito simulações executáveis, com dados inteiramente sintéticos,
+  que acompanham a palestra "Inteligência artificial como propulsora na
+  descoberta de ativos da Amazônia" (Sinanbio). Cada demo torna visível um
+  mecanismo - lacuna de cobertura química, vazamento por divisão aleatória,
+  dereplicação, viés de detecção de clusters biossintéticos, aprendizado ativo,
+  calibração sob deslocamento de domínio, identificação esparsa de dinâmica e
+  auditoria de procedência - e declara explicitamente seu nível de evidência.

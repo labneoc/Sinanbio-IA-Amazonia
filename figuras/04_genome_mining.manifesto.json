@@ -1,0 +1,8 @@
+{
+  "script": "demos/04_genome_mining.py",
+  "semente": 20260926,
+  "particao": "por genoma (60% treino / 40% teste)",
+  "modelo": "LogisticRegression(class_weight='balanced') sobre bag-of-domains",
+  "natureza_dos_dados": "SINTÉTICO - gerado por simulação, sem origem experimental",
+  "arquivo": "04_genome_mining.png"
+}

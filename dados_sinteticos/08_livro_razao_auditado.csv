@@ -1,0 +1,241 @@
+id_acesso,taxon_codificado,territorio_codificado,conhecimento_tradicional_associado,cadastro_previo,consentimento_previo_informado,finalidade,dado_digital_publicado,identificador_de_origem_na_base,usado_em_treino_de_modelo,reparticao_de_beneficios_pactuada,flag_R1,flag_R2,flag_R3,flag_R4,flag_R5,risco,faixa_de_risco
+ACS-0001,TX-025,TER-15,False,False,True,pesquisa,True,False,True,False,True,False,True,False,True,9,crítico
+ACS-0002,TX-003,TER-01,False,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0003,TX-089,TER-08,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0004,TX-061,TER-01,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0005,TX-028,TER-14,False,True,True,desenvolvimento tecnológico,True,False,True,False,False,False,False,True,True,5,alto
+ACS-0006,TX-025,TER-02,True,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0007,TX-041,TER-02,False,True,True,desenvolvimento tecnológico,True,True,False,True,False,False,False,False,False,0,conforme
+ACS-0008,TX-082,TER-15,True,True,True,pesquisa,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0009,TX-041,TER-18,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0010,TX-067,TER-07,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0011,TX-073,TER-14,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0012,TX-045,TER-12,False,True,True,desenvolvimento tecnológico,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0013,TX-076,TER-10,False,False,True,pesquisa,True,True,True,False,True,False,True,False,False,7,alto
+ACS-0014,TX-063,TER-21,True,True,True,desenvolvimento tecnológico,True,False,True,False,False,False,False,True,True,5,alto
+ACS-0015,TX-059,TER-11,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0016,TX-082,TER-14,True,False,True,desenvolvimento tecnológico,False,False,False,True,True,False,False,False,False,3,atenção
+ACS-0017,TX-088,TER-08,False,True,True,desenvolvimento tecnológico,False,False,False,True,False,False,False,False,False,0,conforme
+ACS-0018,TX-079,TER-03,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0019,TX-039,TER-01,False,True,True,desenvolvimento tecnológico,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0020,TX-036,TER-24,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0021,TX-079,TER-11,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0022,TX-033,TER-10,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0023,TX-081,TER-05,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0024,TX-006,TER-05,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0025,TX-018,TER-12,True,True,True,pesquisa,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0026,TX-027,TER-18,False,True,True,pesquisa,True,False,True,True,False,False,False,False,True,2,atenção
+ACS-0027,TX-057,TER-20,True,True,False,desenvolvimento tecnológico,False,False,False,False,False,True,False,False,False,4,alto
+ACS-0028,TX-086,TER-12,True,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0029,TX-034,TER-18,False,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0030,TX-085,TER-12,False,False,True,pesquisa,False,False,False,True,True,False,False,False,False,3,atenção
+ACS-0031,TX-078,TER-08,False,True,True,desenvolvimento tecnológico,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0032,TX-071,TER-04,True,True,True,desenvolvimento tecnológico,True,False,True,False,False,False,False,True,True,5,alto
+ACS-0033,TX-013,TER-08,True,True,True,desenvolvimento tecnológico,True,False,True,False,False,False,False,True,True,5,alto
+ACS-0034,TX-061,TER-13,True,True,True,desenvolvimento tecnológico,True,False,True,True,False,False,False,False,True,2,atenção
+ACS-0035,TX-025,TER-12,True,False,True,pesquisa,True,False,True,False,True,False,True,False,True,9,crítico
+ACS-0036,TX-022,TER-04,False,True,True,pesquisa,True,True,False,True,False,False,False,False,False,0,conforme
+ACS-0037,TX-025,TER-24,False,True,True,desenvolvimento tecnológico,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0038,TX-083,TER-06,False,True,True,desenvolvimento tecnológico,True,True,True,False,False,False,False,True,False,3,atenção
+ACS-0039,TX-052,TER-11,True,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0040,TX-022,TER-13,False,True,True,desenvolvimento tecnológico,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0041,TX-070,TER-21,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0042,TX-056,TER-09,False,True,True,pesquisa,True,True,False,True,False,False,False,False,False,0,conforme
+ACS-0043,TX-010,TER-01,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0044,TX-002,TER-02,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0045,TX-052,TER-07,False,True,True,desenvolvimento tecnológico,True,False,True,False,False,False,False,True,True,5,alto
+ACS-0046,TX-068,TER-24,True,True,True,desenvolvimento tecnológico,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0047,TX-048,TER-12,True,True,False,pesquisa,True,True,True,False,False,True,False,False,False,4,alto
+ACS-0048,TX-075,TER-01,True,False,False,desenvolvimento tecnológico,True,False,False,True,True,True,True,False,True,13,crítico
+ACS-0049,TX-067,TER-03,False,False,True,pesquisa,True,True,False,True,True,False,True,False,False,7,alto
+ACS-0050,TX-021,TER-19,True,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0051,TX-083,TER-02,True,False,False,pesquisa,True,True,True,False,True,True,True,False,False,11,crítico
+ACS-0052,TX-030,TER-16,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0053,TX-067,TER-22,False,True,True,desenvolvimento tecnológico,False,False,False,True,False,False,False,False,False,0,conforme
+ACS-0054,TX-073,TER-02,False,False,True,pesquisa,True,False,True,False,True,False,True,False,True,9,crítico
+ACS-0055,TX-042,TER-21,True,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0056,TX-024,TER-16,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0057,TX-048,TER-01,True,True,True,desenvolvimento tecnológico,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0058,TX-002,TER-06,False,True,True,desenvolvimento tecnológico,True,True,True,False,False,False,False,True,False,3,atenção
+ACS-0059,TX-089,TER-17,True,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0060,TX-020,TER-04,False,False,True,pesquisa,True,False,True,False,True,False,True,False,True,9,crítico
+ACS-0061,TX-045,TER-02,True,False,False,desenvolvimento tecnológico,True,False,True,False,True,True,True,True,True,16,crítico
+ACS-0062,TX-055,TER-13,False,True,True,desenvolvimento tecnológico,True,False,True,True,False,False,False,False,True,2,atenção
+ACS-0063,TX-050,TER-13,False,True,True,pesquisa,True,False,False,True,False,False,False,False,True,2,atenção
+ACS-0064,TX-054,TER-01,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0065,TX-088,TER-17,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0066,TX-036,TER-24,False,False,True,pesquisa,True,False,True,False,True,False,True,False,True,9,crítico
+ACS-0067,TX-030,TER-10,False,True,True,pesquisa,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0068,TX-033,TER-15,False,True,True,pesquisa,True,True,False,True,False,False,False,False,False,0,conforme
+ACS-0069,TX-039,TER-19,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0070,TX-066,TER-12,True,False,False,pesquisa,True,True,True,False,True,True,True,False,False,11,crítico
+ACS-0071,TX-082,TER-09,False,False,True,pesquisa,False,False,False,False,True,False,False,False,False,3,atenção
+ACS-0072,TX-026,TER-13,True,False,False,desenvolvimento tecnológico,False,False,False,True,True,True,False,False,False,7,alto
+ACS-0073,TX-026,TER-04,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0074,TX-048,TER-09,True,True,True,desenvolvimento tecnológico,True,False,True,True,False,False,False,False,True,2,atenção
+ACS-0075,TX-029,TER-11,False,True,True,desenvolvimento tecnológico,True,False,False,True,False,False,False,False,True,2,atenção
+ACS-0076,TX-044,TER-09,True,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0077,TX-084,TER-01,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0078,TX-049,TER-08,True,True,True,desenvolvimento tecnológico,True,False,False,True,False,False,False,False,True,2,atenção
+ACS-0079,TX-074,TER-13,True,True,True,pesquisa,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0080,TX-055,TER-13,True,True,False,pesquisa,True,False,True,False,False,True,False,False,True,6,alto
+ACS-0081,TX-059,TER-12,False,False,True,desenvolvimento tecnológico,True,True,False,False,True,False,True,False,False,7,alto
+ACS-0082,TX-051,TER-07,True,True,True,pesquisa,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0083,TX-058,TER-11,True,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0084,TX-013,TER-09,True,False,True,desenvolvimento tecnológico,False,False,False,True,True,False,False,False,False,3,atenção
+ACS-0085,TX-014,TER-19,False,True,True,pesquisa,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0086,TX-051,TER-21,False,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0087,TX-040,TER-07,False,True,True,desenvolvimento tecnológico,True,True,False,True,False,False,False,False,False,0,conforme
+ACS-0088,TX-031,TER-14,False,False,True,pesquisa,True,False,False,False,True,False,True,False,True,9,crítico
+ACS-0089,TX-080,TER-03,True,True,True,desenvolvimento tecnológico,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0090,TX-052,TER-04,False,True,True,desenvolvimento tecnológico,True,True,True,False,False,False,False,True,False,3,atenção
+ACS-0091,TX-019,TER-08,False,False,True,pesquisa,True,False,False,False,True,False,True,False,True,9,crítico
+ACS-0092,TX-040,TER-01,False,True,True,desenvolvimento tecnológico,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0093,TX-009,TER-22,True,False,False,pesquisa,True,True,True,False,True,True,True,False,False,11,crítico
+ACS-0094,TX-021,TER-01,False,False,True,desenvolvimento tecnológico,False,False,False,True,True,False,False,False,False,3,atenção
+ACS-0095,TX-077,TER-10,False,True,True,desenvolvimento tecnológico,False,False,False,True,False,False,False,False,False,0,conforme
+ACS-0096,TX-017,TER-12,True,False,False,pesquisa,False,False,False,True,True,True,False,False,False,7,alto
+ACS-0097,TX-081,TER-13,False,False,True,desenvolvimento tecnológico,True,False,True,True,True,False,True,False,True,9,crítico
+ACS-0098,TX-082,TER-23,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0099,TX-025,TER-15,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0100,TX-048,TER-15,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0101,TX-031,TER-19,True,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0102,TX-035,TER-14,True,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0103,TX-083,TER-10,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0104,TX-070,TER-11,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0105,TX-040,TER-05,True,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0106,TX-042,TER-09,True,True,True,desenvolvimento tecnológico,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0107,TX-057,TER-04,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0108,TX-031,TER-24,False,True,True,desenvolvimento tecnológico,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0109,TX-076,TER-03,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0110,TX-035,TER-17,True,False,False,pesquisa,False,False,False,False,True,True,False,False,False,7,alto
+ACS-0111,TX-041,TER-08,False,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0112,TX-066,TER-13,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0113,TX-015,TER-16,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0114,TX-007,TER-13,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0115,TX-088,TER-01,True,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0116,TX-079,TER-24,False,False,True,pesquisa,True,True,True,False,True,False,True,False,False,7,alto
+ACS-0117,TX-050,TER-11,False,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0118,TX-063,TER-19,True,True,False,pesquisa,True,False,False,False,False,True,False,False,True,6,alto
+ACS-0119,TX-082,TER-17,True,False,False,pesquisa,True,True,True,True,True,True,True,False,False,11,crítico
+ACS-0120,TX-071,TER-02,True,True,True,desenvolvimento tecnológico,True,False,True,True,False,False,False,False,True,2,atenção
+ACS-0121,TX-031,TER-03,False,True,True,pesquisa,True,False,True,True,False,False,False,False,True,2,atenção
+ACS-0122,TX-004,TER-19,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0123,TX-001,TER-21,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0124,TX-059,TER-16,True,False,True,pesquisa,False,False,False,True,True,False,False,False,False,3,atenção
+ACS-0125,TX-050,TER-07,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0126,TX-040,TER-23,True,True,True,pesquisa,False,False,False,True,False,False,False,False,False,0,conforme
+ACS-0127,TX-008,TER-15,True,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0128,TX-058,TER-24,False,False,True,pesquisa,False,False,False,False,True,False,False,False,False,3,atenção
+ACS-0129,TX-024,TER-07,False,True,True,desenvolvimento tecnológico,True,False,True,True,False,False,False,False,True,2,atenção
+ACS-0130,TX-018,TER-23,False,False,True,pesquisa,False,False,False,False,True,False,False,False,False,3,atenção
+ACS-0131,TX-031,TER-08,False,True,True,desenvolvimento tecnológico,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0132,TX-036,TER-22,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0133,TX-075,TER-15,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0134,TX-004,TER-22,False,False,True,pesquisa,False,False,False,False,True,False,False,False,False,3,atenção
+ACS-0135,TX-029,TER-16,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0136,TX-043,TER-03,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0137,TX-077,TER-18,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0138,TX-052,TER-05,True,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0139,TX-009,TER-01,False,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0140,TX-030,TER-10,False,False,True,pesquisa,True,False,True,False,True,False,True,False,True,9,crítico
+ACS-0141,TX-061,TER-09,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0142,TX-022,TER-04,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0143,TX-022,TER-14,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0144,TX-006,TER-21,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0145,TX-031,TER-15,True,True,True,desenvolvimento tecnológico,True,True,True,False,False,False,False,True,False,3,atenção
+ACS-0146,TX-031,TER-07,True,True,False,desenvolvimento tecnológico,True,False,False,False,False,True,False,False,True,6,alto
+ACS-0147,TX-006,TER-08,True,True,False,pesquisa,False,False,False,False,False,True,False,False,False,4,alto
+ACS-0148,TX-080,TER-08,True,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0149,TX-025,TER-10,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0150,TX-072,TER-02,False,False,True,pesquisa,True,False,False,True,True,False,True,False,True,9,crítico
+ACS-0151,TX-055,TER-09,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0152,TX-085,TER-22,True,False,True,pesquisa,False,False,False,False,True,False,False,False,False,3,atenção
+ACS-0153,TX-046,TER-06,False,True,True,pesquisa,True,False,True,True,False,False,False,False,True,2,atenção
+ACS-0154,TX-021,TER-20,False,False,True,pesquisa,False,False,False,True,True,False,False,False,False,3,atenção
+ACS-0155,TX-032,TER-24,True,False,False,pesquisa,True,True,True,False,True,True,True,False,False,11,crítico
+ACS-0156,TX-054,TER-22,False,True,True,desenvolvimento tecnológico,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0157,TX-020,TER-21,False,False,True,desenvolvimento tecnológico,False,False,False,True,True,False,False,False,False,3,atenção
+ACS-0158,TX-074,TER-09,True,False,False,pesquisa,False,False,False,False,True,True,False,False,False,7,alto
+ACS-0159,TX-069,TER-05,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0160,TX-032,TER-07,False,True,True,desenvolvimento tecnológico,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0161,TX-085,TER-07,False,True,True,desenvolvimento tecnológico,True,False,True,False,False,False,False,True,True,5,alto
+ACS-0162,TX-062,TER-09,True,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0163,TX-017,TER-18,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0164,TX-046,TER-12,False,True,True,desenvolvimento tecnológico,False,False,False,True,False,False,False,False,False,0,conforme
+ACS-0165,TX-016,TER-07,False,True,True,desenvolvimento tecnológico,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0166,TX-017,TER-17,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0167,TX-059,TER-06,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0168,TX-045,TER-21,True,False,True,desenvolvimento tecnológico,True,True,False,False,True,False,True,False,False,7,alto
+ACS-0169,TX-030,TER-24,True,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0170,TX-078,TER-05,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0171,TX-033,TER-08,True,False,False,pesquisa,True,False,True,False,True,True,True,False,True,13,crítico
+ACS-0172,TX-086,TER-13,False,True,True,desenvolvimento tecnológico,True,False,True,False,False,False,False,True,True,5,alto
+ACS-0173,TX-016,TER-17,True,False,False,desenvolvimento tecnológico,True,True,False,False,True,True,True,False,False,11,crítico
+ACS-0174,TX-050,TER-18,False,True,True,desenvolvimento tecnológico,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0175,TX-047,TER-02,False,False,True,pesquisa,False,False,False,False,True,False,False,False,False,3,atenção
+ACS-0176,TX-028,TER-04,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0177,TX-022,TER-09,False,False,True,desenvolvimento tecnológico,False,False,False,True,True,False,False,False,False,3,atenção
+ACS-0178,TX-052,TER-16,True,True,False,pesquisa,False,False,False,False,False,True,False,False,False,4,alto
+ACS-0179,TX-061,TER-23,True,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0180,TX-076,TER-01,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0181,TX-079,TER-01,False,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0182,TX-072,TER-24,True,True,True,pesquisa,True,False,False,True,False,False,False,False,True,2,atenção
+ACS-0183,TX-001,TER-06,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0184,TX-047,TER-16,False,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0185,TX-056,TER-02,True,True,True,desenvolvimento tecnológico,True,False,True,True,False,False,False,False,True,2,atenção
+ACS-0186,TX-074,TER-18,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0187,TX-051,TER-18,False,False,True,desenvolvimento tecnológico,False,False,False,False,True,False,False,False,False,3,atenção
+ACS-0188,TX-068,TER-21,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0189,TX-081,TER-19,True,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0190,TX-045,TER-03,True,True,False,pesquisa,False,False,False,False,False,True,False,False,False,4,alto
+ACS-0191,TX-067,TER-14,True,True,True,desenvolvimento tecnológico,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0192,TX-079,TER-14,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0193,TX-068,TER-04,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0194,TX-021,TER-13,True,True,True,pesquisa,True,True,True,True,False,False,False,False,False,0,conforme
+ACS-0195,TX-062,TER-15,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0196,TX-010,TER-13,False,True,True,desenvolvimento tecnológico,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0197,TX-081,TER-12,False,False,True,pesquisa,False,False,False,False,True,False,False,False,False,3,atenção
+ACS-0198,TX-008,TER-04,True,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0199,TX-050,TER-12,True,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0200,TX-026,TER-03,True,True,False,pesquisa,True,True,True,True,False,True,False,False,False,4,alto
+ACS-0201,TX-080,TER-21,False,True,True,desenvolvimento tecnológico,True,True,False,True,False,False,False,False,False,0,conforme
+ACS-0202,TX-032,TER-03,True,True,True,pesquisa,True,True,True,False,False,False,False,False,False,0,conforme
+ACS-0203,TX-061,TER-18,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0204,TX-040,TER-02,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0205,TX-015,TER-19,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0206,TX-053,TER-08,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0207,TX-030,TER-10,False,False,True,pesquisa,True,False,True,False,True,False,True,False,True,9,crítico
+ACS-0208,TX-088,TER-16,True,False,False,pesquisa,True,True,False,False,True,True,True,False,False,11,crítico
+ACS-0209,TX-011,TER-09,True,True,True,desenvolvimento tecnológico,True,False,False,True,False,False,False,False,True,2,atenção
+ACS-0210,TX-053,TER-19,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0211,TX-031,TER-19,False,True,True,desenvolvimento tecnológico,False,False,False,True,False,False,False,False,False,0,conforme
+ACS-0212,TX-020,TER-15,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0213,TX-088,TER-18,False,False,True,pesquisa,True,True,True,True,True,False,True,False,False,7,alto
+ACS-0214,TX-038,TER-09,True,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0215,TX-053,TER-15,False,False,True,pesquisa,True,True,False,False,True,False,True,False,False,7,alto
+ACS-0216,TX-023,TER-04,False,True,True,desenvolvimento tecnológico,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0217,TX-073,TER-07,False,True,True,pesquisa,True,True,False,False,False,False,False,False,False,0,conforme
+ACS-0218,TX-044,TER-21,True,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0219,TX-065,TER-11,False,True,True,desenvolvimento tecnológico,True,False,True,False,False,False,False,True,True,5,alto
+ACS-0220,TX-075,TER-10,False,False,True,pesquisa,True,False,True,False,True,False,True,False,True,9,crítico
+ACS-0221,TX-004,TER-20,False,True,True,desenvolvimento tecnológico,True,False,True,False,False,False,False,True,True,5,alto
+ACS-0222,TX-039,TER-14,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0223,TX-011,TER-17,True,False,False,desenvolvimento tecnológico,True,False,True,True,True,True,True,False,True,13,crítico
+ACS-0224,TX-051,TER-18,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0225,TX-018,TER-18,True,True,True,desenvolvimento tecnológico,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0226,TX-082,TER-13,False,True,True,desenvolvimento tecnológico,True,True,True,False,False,False,False,True,False,3,atenção
+ACS-0227,TX-049,TER-04,False,True,True,desenvolvimento tecnológico,True,False,True,False,False,False,False,True,True,5,alto
+ACS-0228,TX-061,TER-18,True,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0229,TX-009,TER-08,True,True,True,desenvolvimento tecnológico,False,False,False,True,False,False,False,False,False,0,conforme
+ACS-0230,TX-069,TER-08,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0231,TX-027,TER-08,False,True,True,pesquisa,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0232,TX-071,TER-19,False,False,True,pesquisa,True,True,False,False,True,False,True,False,False,7,alto
+ACS-0233,TX-048,TER-19,True,True,True,desenvolvimento tecnológico,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0234,TX-075,TER-03,False,True,True,desenvolvimento tecnológico,False,False,False,False,False,False,False,False,False,0,conforme
+ACS-0235,TX-056,TER-21,False,True,True,pesquisa,True,False,True,False,False,False,False,False,True,2,atenção
+ACS-0236,TX-086,TER-24,False,False,True,pesquisa,True,False,True,True,True,False,True,False,True,9,crítico
+ACS-0237,TX-003,TER-23,False,True,True,desenvolvimento tecnológico,False,False,False,True,False,False,False,False,False,0,conforme
+ACS-0238,TX-059,TER-19,False,True,True,pesquisa,True,False,False,False,False,False,False,False,True,2,atenção
+ACS-0239,TX-054,TER-15,False,False,True,pesquisa,False,False,False,False,True,False,False,False,False,3,atenção
+ACS-0240,TX-049,TER-20,True,True,True,pesquisa,False,False,False,True,False,False,False,False,False,0,conforme

@@ -1,0 +1,24 @@
+{
+  "script": "demos/07_dinamica_biossintese.py",
+  "semente": 20260926,
+  "sistema_verdadeiro": {
+    "P": {
+      "1": 0.8,
+      "P": -0.3,
+      "P*E": -0.9
+    },
+    "E": {
+      "E": -0.25
+    },
+    "M": {
+      "P*E": 0.9,
+      "M": -0.15
+    }
+  },
+  "biblioteca": "polinomial de grau 2 em (P, E, M)",
+  "limiar_stlsq": 0.05,
+  "suavizacao": "Savitzky-Golay, polyorder=3, janela ~ n/12",
+  "derivada": "diferença central (numpy.gradient)",
+  "natureza_dos_dados": "SINTÉTICO - gerado por simulação, sem origem experimental",
+  "arquivo": "07_dinamica_biossintese.png"
+}

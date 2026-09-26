@@ -1,0 +1,12 @@
+{
+  "script": "demos/05_aprendizado_ativo.py",
+  "semente": 20260926,
+  "lote": 50,
+  "n_lotes": 12,
+  "execucoes": 6,
+  "politica_hibrida": "p + 2.0*incerteza - 0.6*redundância_de_família",
+  "politica_cota": "60% explotação + 40% amostragem inversa à visitação",
+  "incerteza": "desvio-padrão entre execuções (não é intervalo de confiança)",
+  "natureza_dos_dados": "SINTÉTICO - gerado por simulação, sem origem experimental",
+  "arquivo": "05_aprendizado_ativo.png"
+}

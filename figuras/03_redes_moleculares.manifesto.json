@@ -1,0 +1,9 @@
+{
+  "script": "demos/03_redes_moleculares.py",
+  "semente": 20260926,
+  "limiar_cosseno": 0.76,
+  "vies_biblioteca": "p=0.48 famílias 0-7; p=0.02 famílias 8-13",
+  "layout": "networkx.spring_layout(seed=20260926)",
+  "natureza_dos_dados": "SINTÉTICO - gerado por simulação, sem origem experimental",
+  "arquivo": "03_redes_moleculares.png"
+}

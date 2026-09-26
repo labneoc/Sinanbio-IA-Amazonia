@@ -1,0 +1,9 @@
+{
+  "script": "demos/02_divisao_por_scaffold.py",
+  "semente": 20260926,
+  "repeticoes": 15,
+  "modelo": "RandomForestClassifier(n_estimators=300, min_samples_leaf=2)",
+  "incerteza": "desvio-padrão entre repetições (não é IC)",
+  "natureza_dos_dados": "SINTÉTICO - gerado por simulação, sem origem experimental",
+  "arquivo": "02_divisao_por_scaffold.png"
+}

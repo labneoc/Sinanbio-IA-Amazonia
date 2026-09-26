@@ -1,0 +1,10 @@
+{
+  "script": "demos/01_lacuna_amazonica.py",
+  "semente": 20260926,
+  "limiar_dominio_tanimoto": 0.4,
+  "transformacoes": [
+    "PCA 2 componentes sobre fingerprint binário sintético"
+  ],
+  "natureza_dos_dados": "SINTÉTICO - gerado por simulação, sem origem experimental",
+  "arquivo": "01_lacuna_amazonica.png"
+}
